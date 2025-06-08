@@ -1,0 +1,28 @@
+{
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.exclude": {
+    "node_modules": true,
+    ".next": true,
+    "dist": true,
+    ".vercel": true
+  },
+  "search.exclude": {
+    "node_modules": true,
+    ".next": true,
+    "dist": true,
+    ".vercel": true
+  },
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.eol": "\n",
+  "editor.rulers": [100],
+  "editor.wordWrap": "on",
+  "emmet.includeLanguages": {
+    "typescript": "html",
+    "typescriptreact": "html"
+  }
+}
